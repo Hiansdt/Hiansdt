@@ -1,11 +1,11 @@
 <h2 align="center">Always a little over the edge</h2>
 
 <div>
- 
+ <div style="display:flex; flex-direction:row">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hiansdt&show_icons=true&theme=midnight-purple&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiansdt&theme=midnight-purple&layout=compact&hide=vue,pascal" style="max-width:100%;" height="180em">
- 
+ </div>
    <img alt="Hiansdt" src="https://github-readme-streak-stats.herokuapp.com?user=Hiansdt&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
  
 </div>
