@@ -2,7 +2,7 @@
 
 <div>
  
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hiansdt&show_icons=true&theme=&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hiansdt&show_icons=true&theme=radical&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiansdt&theme=radical&layout=compact&hide=css" style="max-width:100%;" height="180em">
  
