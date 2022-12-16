@@ -6,7 +6,7 @@
   
    <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api/top-langs/?username=Hiansdt&count_private=true&theme=radical&layout=compact&hide=css,procfile&include_all_commits=true" style="max-width:100%;" height="180em">
  
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Hiansdt&theme=radical)](https://git.io/streak-stats)
   
  </a>
 </div>
