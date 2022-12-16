@@ -16,7 +16,8 @@
 <div>
  
  <a href="https://github.com/Hiansdt">
-  <img alt="Logo Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="mx-width:100%;"/>
+  <img alt="Logo Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="max-width:100%;"/>
+  <img alt="Logo Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width:100%;" />
    <img alt="Meu Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;"/>
  </a>
 
