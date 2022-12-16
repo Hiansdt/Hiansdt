@@ -4,9 +4,9 @@
  
    <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api?username=Hiansdt&count_private=true&show_icons=true&include_all_commits=true&theme=radical&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
   
-   <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api/top-langs/?username=Hiansdt&count_private=true&theme=radical&layout=compact&hide=css,procfile&include_all_commits=true" style="max-width:100%;" height="180em">
+   <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api/top-langs/?username=Hiansdt&count_private=true&theme=radical&layout=compact&hide=css,procfile&include_all_commits=true" style="max-width:60%;" height="180em">
  
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Hiansdt&theme=radical)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Hiansdt&theme=radical&currStreakLabel=1A61DD&stroke=5A8ADD&ring=00DDC7&fire=FF0000&dates=FF3333&sideNums=00FFEA&currStreakNum=DD0000&sideLabels=0072DD&border=DD1835&background=5700004D)](https://git.io/streak-stats)
   
  </a>
 </div>
