@@ -4,7 +4,7 @@
  
    <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api?username=Hiansdt&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="170em">
   
-   <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api/top-langs/?username=Hiansdt&count_private=true&theme=synthwave&layout=compact&hide=css,procfile&include_all_commits=true" style="max-width:100%;" height="170em">  
+   <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api/top-langs/?username=Hiansdt&count_private=true&theme=synthwave&layout=compact&hide=css,procfile&include_all_commits=true&hide=html" style="max-width:100%;" height="170em">  
  </a>
 </div>
 
