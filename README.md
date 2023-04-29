@@ -7,15 +7,11 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielpereira&theme=midnight-purple&layout=compact&hide=vue,html,javascript,pascal,cmake,c" style="max-width:100%;" height="180em">
  
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ogabrielpereira&theme=midnight-purple" style="max-width:100%;" height="170em">
- 
- <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=ml5ci1ugq97gun3be2mhge9qk&count=3" style="max-width:100%;" height="200em">
+
  
 </div>
 
 <br>
-
-<!-- [![An image of @venni_sh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venni_sh)](https://holopin.io/@venni_sh)
- -->
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" width="100" height="30"   align="middle">
