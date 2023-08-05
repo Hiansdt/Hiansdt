@@ -16,6 +16,7 @@
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" width="100" height="30"   align="middle">
  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="max-width:100%" width="100">
+ ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 </div>
 
 
