@@ -2,10 +2,6 @@
 
 <div align="center">  
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiansdt&theme=midnight-purple&layout=compact&hide=html,css,scss" style="max-width:100%;" height="180em">
- 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Hiansdt&theme=midnight-purple" style="max-width:100%;" height="170em">
-
- 
 </div>
 
 <br>
